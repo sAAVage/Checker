@@ -6,10 +6,10 @@ return $config = Array(
 	'test-mode'  => true,
 
 	// Secret Key from Stripe.com Dashboard
-	'secret-key' => 'sk_live_SUA KEY',
+	'secret-key' => 'sk_live_4rdvQx1UKeGnxeycXgkm4359',
 
 	// Publishable Key from Stripe.com Dashboard
-	'publishable-key' => 'pk_live_SUA KEY',
+	'publishable-key' => 'pk_live_pia6BbIHYSAwOTgQVg4PifBn',
 
 	// Where to send upon successful donation (must include http://)
 	'thank-you'  => ' thankyou.html',
